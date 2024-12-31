@@ -95,11 +95,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Final Data After Preprocessing](images/Final_data_after_preprocess.png)
 ![Model Output](images/output.png)
 
-## Model Training Video
+## Website Video
 
-You can view the model training process in the video below:
+You can view the process in the video below:
 
-[![Model Training Process](images/IPL_Victory_Probability_Estimator.mp4)
+[![Watch Video]([images/IPL_Victory_Probability_Estimator.mp4](https://github.com/Nitish2773/IPL-Victory-Probability-Estimator/blob/main/images/IPL_Victory_Probability_Estimator.mp4))
 
 ```
 
