@@ -80,16 +80,21 @@ Feel free to fork this repository, make improvements, or submit pull requests. C
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Model training Process
+## Model Training Process
 
-```markdown
-![Model Training Process]
-D:\IPL Victory Probability Estimator\images\workflow.png
-D:\IPL Victory Probability Estimator\images\Logistic_regression.png
-D:\IPL Victory Probability Estimator\images\Probability_prediction.png
-D:\IPL Victory Probability Estimator\images\probab_pred2.png
-D:\IPL Victory Probability Estimator\images\Final_data_after_preprocess.png
-D:\IPL Victory Probability Estimator\images\output.png
+![Model Training Process](images/workflow.png)
+![Logistic Regression Model](images/Logistic_regression.png)
+![Probability Prediction](images/Probability_prediction.png)
+![Prediction 2](images/probab_pred2.png)
+![Final Data After Preprocessing](images/Final_data_after_preprocess.png)
+![Model Output](images/output.png)
 
-D:\IPL Victory Probability Estimator\IPL Victory Probability Estimator.mp4
+## Model Training Video
+
+You can view the model training process in the video below:
+
+[![Model Training Process](/IPL%20Victory%20Probability%20Estimator.mp4)
+
+```
+
 ```
