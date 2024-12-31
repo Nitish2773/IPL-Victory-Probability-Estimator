@@ -1,4 +1,3 @@
-
 ---
 
 # IPL Victory Probability Estimator
@@ -27,16 +26,19 @@ The IPL Victory Probability Estimator is a predictive model designed to forecast
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/ipl-victory-probability-estimator.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd ipl-victory-probability-estimator
    ```
 
 3. Install the required dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -58,7 +60,7 @@ The model was trained using historical IPL match data. Various machine learning 
 - **Confusion Matrix**: For evaluating the model's performance.
 - **Feature Importance**: Displays the significance of each feature in predicting the match outcome.
 
-*(Add presentation images and videos of the model training process here)*
+_(Add presentation images and videos of the model training process here)_
 
 ## Usage
 
@@ -78,11 +80,16 @@ Feel free to fork this repository, make improvements, or submit pull requests. C
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-You can embed your images and videos related to the model training and visualizations in the README file using markdown, like this:
+## Model training Process
 
 ```markdown
-![Model Training Process] 
-```
+![Model Training Process]
+D:\IPL Victory Probability Estimator\images\workflow.png
+D:\IPL Victory Probability Estimator\images\Logistic_regression.png
+D:\IPL Victory Probability Estimator\images\Probability_prediction.png
+D:\IPL Victory Probability Estimator\images\probab_pred2.png
+D:\IPL Victory Probability Estimator\images\Final_data_after_preprocess.png
+D:\IPL Victory Probability Estimator\images\output.png
 
+D:\IPL Victory Probability Estimator\IPL Victory Probability Estimator.mp4
+```
