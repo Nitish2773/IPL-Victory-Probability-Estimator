@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 You can view the model training process in the video below:
 
-[![Model Training Process](images/IPL%20Victory%20Probability%20Estimator.mp4)
+[![Model Training Process](images/IPL Victory Probability Estimator.mp4)
 
 ```
 
