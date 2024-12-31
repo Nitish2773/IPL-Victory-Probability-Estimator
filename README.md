@@ -100,7 +100,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 You can view the process in the video below:
 
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/Nitish2773/IPL-Victory-Probability-Estimator/main/images/IPL_Victory_Probability_Estimator.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/f68c60b1-b9f6-4d00-8381-30493dc3b41f
+
