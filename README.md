@@ -52,6 +52,12 @@ The IPL Victory Probability Estimator is a predictive model designed to forecast
 
 The dataset used in this project is the IPL match dataset from Kaggle, which includes various match statistics such as runs, wickets, overs, and player performances. The dataset helps in building the predictive model to estimate the probability of a team winning.
 
+This is a kaggle dataset where we have 5 Files but we are focused only on 2 Files : 
+1. matches.csv $\rightarrow$ Has each match analysis
+2. deliveries.csv $\rightarrow$ Has each ball analysis.
+
+##### Data Set Link : https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set 
+
 ## Model Training and Visualization
 
 The model was trained using historical IPL match data. Various machine learning algorithms were tested, and the final model was selected based on accuracy. Below are some visualizations of the model training process:
