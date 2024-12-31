@@ -103,4 +103,3 @@ You can view the model training process in the video below:
 
 ```
 
-```
